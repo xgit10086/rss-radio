@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+    <title>全球广播RSS订阅</title>
+    <itunes:subtitle>听见全世界</itunes:subtitle>        
+    <link>http://Google.com</link>
+    <atom:link href="https://agit.ai/ullas/rss/raw/branch/master/cn-radio.xml" rel="self" type="application/rss+xml"/>    
+    <description>广播（英语对应词：Broadcasting）是指利用电子通信技术发送声音、影像、视频等信息内容提供给公众的行为，属于传播媒体的范畴。相对于电话、早期无线电等电子通信形式，其特色是“一对多”，单向的将信息传播给广大的受众对象。广播主要分为两大类型，分别为传播声音内容的电台广播、以及同步传播声音与视觉内容的电视广播，其中电台广播在1920年代开始流行，发展的时间较早。提供广播内容的单位或设施称为广播台，亦称电台，包含广播电台与电视台。从广播派生但形式相异的概念为小众传播（英语：Narrowcasting）与随选视频。</description>
+    <language>zh-CN</language>
+    <itunes:category text="Arts">
+      <itunes:category text="Design"/>
+      <itunes:category text="Visual Arts"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:image href="https://bu.dusays.com/2022/05/24/628cf644e442f.png"/>
+    <itunes:keywords>电台,广播,实时收音机</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>一只喵</itunes:author>
+    <itunes:owner>
+        <itunes:name>易</itunes:name>
+        <itunes:email>a@qq.com</itunes:email>
+    </itunes:owner>
+    
+    
+    
+    
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+    
+    
+    <item><title>#4: 香港电台普通话台</title><description><![CDATA[香港电台普通话台（英语：RTHK Putonghua Channel）是香港电台旗下的一个广播频道，于1997年3月31日启播，为香港唯一自办普通话广播频道。]]></description><link>http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8</link><itunes:explicit>no</itunes:explicit><guid isPermaLink="true">http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8</guid><author>香港电台</author><itunes:image href="https://s2.loli.net/2022/05/25/k5f7bYxrQwhj4Ts.jpg"/><pubDate>Wed, 25 May 2022 00:00:00 +0800</pubDate><enclosure type="audio/mpeg" url="http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8"/><itunes:duration>7383</itunes:duration></item><item><title>#3: CNR 阅读之声</title><description><![CDATA[这里是中央人民广播电台阅读之声。]]></description><link>https://m.qtfm.cn/channels/398</link><itunes:explicit>no</itunes:explicit><guid isPermaLink="true">https://m.qtfm.cn/channels/398</guid><author>中央人民广播电台</author><itunes:image href="http://pic.qtfm.cn/2020/0604/20200604101124.jpeg"/><pubDate>Wed, 25 May 2022 00:00:00 +0800</pubDate><enclosure type="audio/mpeg" url="https://lhttp.qingting.fm/live/398/64k.mp3"/><itunes:duration>21966</itunes:duration></item><item>
+            <title>#2: CNR 音乐之声</title>
+            <description><![CDATA["有一种快乐，在空中听见，Music Radio旋律在蔓延......感动让你听见——我要我的音乐"，音乐之声是全华语市场最专业流行音乐频率，中国知名类型化流行音乐频率，覆盖全国，打破以往音乐广播板块型播出形态.]]></description>
+            <link>https://m.qtfm.cn/channels/388/</link>
+            <itunes:explicit>no</itunes:explicit>
+            <guid isPermaLink="true">https://m.qtfm.cn/channels/388/</guid>
+            <author>中央人民广播电台</author>
+            <itunes:image href="http://pic.qtfm.cn/sso/198/1631523386950_lHENvKWul.jpeg"/>
+            <pubDate>Tue, 03 Nov 2015 14:50:40 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="https://lhttp.qingting.fm/live/388/64k.mp3"/>
+            <itunes:duration>366</itunes:duration>
+	</item>
+    
+    <item>
+        <title>#1: CNR 经济之声</title>
+        <description><![CDATA[中央人民广播电台经济之声是中国最有影响力的财经广播，也是唯一一套覆盖全国的财经专业媒体，覆盖全国3亿多以城市为主体的广播听众。经济之声立足于“国家级现代传媒机构”的定位，传播全球最新财经资讯，引领经济话语，是中国最具成长性的专业财经媒体。]]></description>
+        <link>https://m.qtfm.cn/channels/387</link>
+        <itunes:explicit>no</itunes:explicit>
+        <guid isPermaLink="true">https://m.qtfm.cn/channels/387</guid>
+        <author>中央人民广播电台</author>
+        <itunes:image href="https://static2.mytuner.mobi/media/tvos_radios/vHd8an5Wmf.jpg"/>
+        <pubDate>Thu, 29 Oct 2015 12:58:40 +0800</pubDate>
+        <enclosure type="audio/mpeg" url="https://lhttp.qingting.fm/live/387/64k.mp3"/>
+        <itunes:duration>2594</itunes:duration>
+    </item>
+    
+    <item>
+        <title>#0: 中国之声</title>
+        <description><![CDATA[中国之声――中央人民广播电台最悠久的第一套节目，中国国家电台最具权威的新闻综合广播；全天24小时不间断播音，遍布海内外数百家电台、与上千名记者全面合作。]]></description>
+        <link>http://m.qingting.fm/channels/386/</link>
+        <itunes:explicit>no</itunes:explicit>
+        <guid isPermaLink="true">http://m.qingting.fm/channels/386/</guid>
+        <author>易</author>
+        <itunes:image href="http://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg"/>
+        <pubDate>Thu, 29 Oct 2015 11:58:40 +0800</pubDate>
+        <enclosure type="audio/mpeg" url="https://lhttp.qingting.fm/live/386/64k.mp3"/>
+        <itunes:duration>366</itunes:duration>
+    </item>
+        
+</channel>
+</rss>
